@@ -1,1 +1,1 @@
-following w3b schools tutorial online
+following w3schools tutorial online
